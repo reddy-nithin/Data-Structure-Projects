@@ -1,0 +1,4 @@
+Frailty is defined as physical weakness or a lack of health and strength. Research has shown that lower grip strength is associated with higher frailty scores in females, and vice versa. Grip strength is typically measured using a dynamometer to quantify the amount of static force the hand can exert. This force is commonly measured in kilograms and pounds.
+
+
+The table displays data from 10 female participants, including their height in inches, weight in pounds, age in years, and grip strength in kilograms. Frailty is a qualitative attribute that indicates the presence or absence of symptoms with N as No and Y as Yes.
