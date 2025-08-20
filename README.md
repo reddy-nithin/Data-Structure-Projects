@@ -1,0 +1,1 @@
+A curated portfolio of end-to-end data analysis projects demonstrating practical application of data engineering, exploratory analysis, statistical inference, and predictive modeling. Designed to showcase reproducible workflows, stakeholder-ready visualizations, and actionable insights suitable for inclusion on a professional resume and portfolio.
