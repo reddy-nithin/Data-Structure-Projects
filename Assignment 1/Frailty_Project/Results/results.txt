@@ -1,3 +1,0 @@
-After plotting the heat map, we observed a negative correlation between Grip Strength and Frailty. This indicates that the lower the grip strength, the higher the frailty.
-
-When plotting BMI against Frailty, we noticed a connection between the Underweight BMI range (17-19) and the absence of frailty. On the other hand, frailty is present when BMI is in the Healthy range. However, it's important to note that the available data might be too small to draw a definitive conclusion.
